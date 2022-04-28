@@ -4,7 +4,7 @@ I'm a frontend developer who is passionate about making applications, creating t
 I enjoy working with ReactJS.
 
 
-## Currently 🌎:
+## Currently:
 - Im looking for my frist job 💼
-- Learning Typescript
+- Learning Typescript ✔️
 -----
