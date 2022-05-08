@@ -6,6 +6,6 @@ I enjoy working with ReactJS.
 
 
 ## Currently:
-- Im looking for my frist job 💼
+- I'm looking for my frist job 💼
 - Learning NextJS ✔️
 -----
