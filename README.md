@@ -9,3 +9,6 @@ I enjoy working with ReactJS.
 - I'm looking for my frist job 💼
 - Learning NextJS ✔️
 -----
+
+## Visit my website to know more
+- www.sebx.dev
