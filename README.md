@@ -6,6 +6,6 @@ I enjoy working with ReactJS. -->
 
 
 ## Currently:
-- Learning NextJS ✔️
+- Learning Typescript ✔️
 -----
 
