@@ -11,8 +11,11 @@
 ## I'm a frontend developer who is passionate about making applications.
 
 Blockchain enthusiast. 
-My favorite stack is Nextjs typescript and tailwind.
 
+My favorite stack:
+NextJS / Typescript / Tailwind 
+
+Visit my website! www.sebx.dev
 
 ## Currently:
 - Learning Typescript ✔️
