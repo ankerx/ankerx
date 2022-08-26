@@ -18,6 +18,6 @@ NextJS / Typescript / Tailwind
 Visit my website! www.sebx.dev
 
 ## Currently:
-- Learning Typescript ✔️
+- Learning Typescript & Solidity ✔️
 -----
 
