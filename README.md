@@ -8,15 +8,14 @@
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-## I'am Full-stack Developer
+## Full-stack Developer
 
 
-My favorite stack:
-NextJS / React / Typescript / NestJS / Tailwind 
+My stack:
+NextJS / React / Typescript / NestJS / Python 
 
-Visit my website! www.sebx.dev
 
 ## Currently:
-- learning AWS 🧠 ✔️
+- building AI Agents
 -----
 
